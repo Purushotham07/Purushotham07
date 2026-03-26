@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Purushotham07-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-purushothamkrishna07%40gmail.com-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-purushothamkrishna07%40gmail.com-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ Concept-based platform focused on modern interaction.
 
 ## Contact
 
-- Email: purushothamkrishna07@gmail.com  
+- Gmail: purushothamkrishna07@gmail.com  
 - GitHub: Purushotham07  
 - Brand: Webbroz  
 
