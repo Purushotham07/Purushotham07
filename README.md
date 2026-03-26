@@ -46,7 +46,7 @@ I focus on building high-performance websites with clean UI, strong structure, a
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,laravel,mysql,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,figma,github,vscode" />
 </p>
 
 <p align="center">
