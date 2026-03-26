@@ -1,7 +1,7 @@
 <h1 align="center">Purushotham</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&color=2563EB&lines=Purushotham;Web+Developer;UI%2FUX+Focused;Building+High-Performance+Websites;Creating+Scalable+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&color=2563EB&lines=Purushotham;Web+Developer;UI%2FUX+Focused;Building+High-Performance+Websites;Creating+Scalable+Digital+Experiences" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -13,19 +13,15 @@
   <b>Web Developer</b> • <b>UI/UX Focused</b> • <b>Performance Driven</b>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2563EB" />
+  Building modern, scalable, and visually refined digital experiences for brands and businesses.
 </p>
+
+---
 
 ## About Me
 
 I focus on building high-performance websites with clean UI, strong structure, and scalable architecture. My work combines development and design to create modern digital products.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" />
-</p>
 
 ---
 
@@ -37,10 +33,6 @@ I focus on building high-performance websites with clean UI, strong structure, a
 - Performance Optimization  
 - Branding and Visual Presentation  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" />
-</p>
-
 ---
 
 ## Tech Stack
@@ -49,29 +41,21 @@ I focus on building high-performance websites with clean UI, strong structure, a
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,laravel,mysql,figma,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" />
-</p>
-
 ---
 
 ## Featured Projects
 
 ### InviteStory  
-Digital wedding invitation platform with customization and sharing.
+Digital wedding invitation platform with customization and seamless sharing.
 
 ### Webbroz  
 Performance-focused website development brand.
 
 ### DrezzStudio  
-Fashion website with clean design and layout.
+Fashion website with clean UI and modern design.
 
 ### Lovexa  
-Concept-based platform focused on modern interaction.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" />
-</p>
+Concept-based platform focused on interaction and user experience.
 
 ---
 
@@ -86,10 +70,6 @@ Concept-based platform focused on modern interaction.
   <img src="https://streak-stats.demolab.com?user=Purushotham07&theme=default&hide_border=true&ring=2563EB&fire=2563EB" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" />
-</p>
-
 ---
 
 ## Current Focus
@@ -99,13 +79,17 @@ Concept-based platform focused on modern interaction.
 - Improving performance  
 - Developing digital brands  
 
+---
+
+## Digital Workspace
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Working Animation" />
 </p>
 
 ---
 
-## Contact
+## Connect
 
 - Email: purushothamkrishna07@gmail.com  
 - GitHub: Purushotham07  
@@ -114,5 +98,5 @@ Concept-based platform focused on modern interaction.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2563EB&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=2563EB&section=footer" />
 </p>
