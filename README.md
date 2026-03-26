@@ -1,4 +1,4 @@
-<h1 align="center">Purushotham</h1>
+<h1 align="center"> I'm Purushotham</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&color=2563EB&lines=Web+Developer;UI%2FUX+Focused;Building+High-Performance+Websites;Creating+Scalable+Digital+Experiences" />
