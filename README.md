@@ -1,16 +1,12 @@
 <h1 align="center">Purushotham</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&color=2563EB&lines=Web+Developer;UI%2FUX+Focused;Building+High-Performance+Websites;Creating+Scalable+Digital+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&color=2563EB&lines=Purushotham;Web+Developer;UI%2FUX+Focused;Building+High-Performance+Websites;Creating+Scalable+Digital+Experiences" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Purushotham07">
-    <img src="https://img.shields.io/badge/GitHub-Purushotham07-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  <a href="mailto:purushothamkrishna07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-purushothamkrishna07%40gmail.com-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-Purushotham07-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/Email-purushothamkrishna07%40gmail.com-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </p>
 
 <p align="center">
@@ -96,12 +92,6 @@ A concept-based platform centered on refined UI, modern interaction, and visual 
 - Brand: Webbroz  
 
 ---
-
-<p align="center">
-  <a href="mailto:purushothamkrishna07@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=2563EB&section=footer" alt="Footer Wave" />
