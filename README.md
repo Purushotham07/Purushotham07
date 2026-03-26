@@ -14,11 +14,7 @@
 </p>
 
 <p align="center">
-  I build modern, scalable, and visually refined digital experiences for brands, businesses, and growing products.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purushotham07&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
+  Building modern, scalable, and visually refined digital experiences for brands and businesses.
 </p>
 
 ---
@@ -33,7 +29,7 @@ I focus on building high-performance websites with clean UI, strong structure, a
 
 - Frontend Development  
 - UI/UX Design Systems  
-- Responsive Website Design  
+- Responsive Web Design  
 - Performance Optimization  
 - Branding and Visual Presentation  
 
@@ -49,29 +45,29 @@ I focus on building high-performance websites with clean UI, strong structure, a
 
 ## Featured Projects
 
-### InviteStory
-A digital wedding invitation platform focused on elegant templates, easy customization, and smooth online sharing.
+### InviteStory  
+Digital wedding invitation platform with elegant templates and seamless sharing.
 
-### Webbroz
-A performance-driven website development brand built for modern businesses and scalable digital growth.
+### Webbroz  
+Performance-driven website development brand for modern businesses.
 
-### DrezzStudio
-A fashion-focused website with clean product presentation, strong visual identity, and modern layout design.
+### DrezzStudio  
+Fashion website with clean UI and strong visual identity.
 
-### Lovexa
-A concept-based platform centered on refined UI, modern interaction, and visual storytelling.
+### Lovexa  
+Concept-based platform focused on interaction and user experience.
 
 ---
 
 ## GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Purushotham07&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham07&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=1F2937" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Purushotham07&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham07&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=1F2937" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Purushotham07&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Purushotham07&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
 </p>
 
 ---
@@ -94,5 +90,5 @@ A concept-based platform centered on refined UI, modern interaction, and visual 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=2563EB&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=2563EB&section=footer" />
 </p>
